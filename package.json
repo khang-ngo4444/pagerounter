@@ -1,0 +1,19 @@
+{
+  "name": "pagerouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khang-ngo4444/pagerounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khang-ngo4444/pagerounter/issues"
+  },
+  "homepage": "https://github.com/khang-ngo4444/pagerounter#readme"
+}
